@@ -6,9 +6,13 @@ Course Link: https://cs50.harvard.edu/ai/
 
 Modules I have covered:
 
-Lecture 0: Search
+## Lecture 0: Search
 
-Lecture 4: Learning
+### Projects
+- Degrees
+- Tic-Tac-Toe
 
-Lecture 5: Neural Networks
+## Lecture 4: Learning
+
+## Lecture 5: Neural Networks
 

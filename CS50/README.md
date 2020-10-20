@@ -10,4 +10,5 @@ Lecture 0: Search
 
 Lecture 4: Learning
 
-Lecture 5: Neural Network
+Lecture 5: Neural Networks
+

@@ -14,5 +14,12 @@ Modules I have covered:
 
 ## Lecture 4: Learning
 
+### Projects
+- Shopping
+- Nim
+
 ## Lecture 5: Neural Networks
+
+### Projects
+- Traffic
 
